@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://webpackdemo/./src/home.js"],"names":["box"],"mappings":";;;;;AAAA,SAASA,GAAT,GAAe;AACb,SAAO,CAAP;AACD;;AACDA,GAAG,G","file":"home.9cb06f39c4.js","sourcesContent":["function box() {\r\n  return 1\r\n}\r\nbox()"],"sourceRoot":""}
